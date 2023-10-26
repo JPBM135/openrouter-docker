@@ -1,0 +1,9 @@
+docker/elevation_cache
+docker/graphs
+docker/data/elevation_cache
+docker/data/graphs
+*.pbf
+*.log
+*.txt
+*.crt
+*.key
